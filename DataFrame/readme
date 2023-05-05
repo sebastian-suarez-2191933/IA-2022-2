@@ -1,1 +1,1 @@
-Text
+Es importante conocer que todos los dataframes no son utilizables, sino usados para pruebas. El dataframe exitoso es el que es llamado desde el notebook.
