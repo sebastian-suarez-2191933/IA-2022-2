@@ -1,0 +1,104 @@
+N_Cot,Cliente,Fecha,N_Productos_Total,Capacitacion,V_Total,Descuento,url
+751,Eduardo Ramirez,03/05/2016,2,FALSE,273.760,FALSE,Cotización 751 -Eduardo Ramirez- (PLA) 2.85mm
+752,DAR Soluciones,03/05/2016,2,FALSE,6.641.000,FALSE,Cotización 752 - DAR Soluciones (PLA-ABS)
+753,Paola Buitrago,04/05/2016,3,TRUE,3.089.520,FALSE,Cotización 753 - Paola Buitrago - Micro + insumos
+754,BPM Global Solutions,04/05/2016,6,TRUE,24.831.784,TRUE,Cotización 754 -BPM Global Solutions- Makerbot Replicator 2 y 2X
+755,Diego Salazar,05/05/2016,2,TRUE,21.451.000,TRUE,Cotización 755 -Diego Salazar- Scanners 3D (Fuel 3D + David2)
+756,UNIVERSIDAD DE LOS ANDES,05/05/2016,3,FALSE,888.000,FALSE,"Cotización 756 - UNIVERSIDAD DE LOS ANDES- ABS EasyFil Formfutura, ABS IC3D"
+756,Daniela gomez,05/05/2016,2,TRUE,6.042.080,TRUE,Cotización 756 -Daniela Gomez- Software FUEL 3D
+757,ASSA ABLOY - YALE,04/04/2017,6,FALSE,1.281.327,FALSE,Cotización 757 -YALE- Repuestos MakerGear M2
+758,UNIVERSIDAD DE LOS ANDES,05/05/2016,2,FALSE,640.400,FALSE,Cotización 758 - Uniandes (Buildtak)
+759,Colegio Colombo Británico,10/05/2016,11,TRUE,61.210.890,FALSE,Cotización 759 - Colegio Colombo Británico - Portafolio impresoras
+760,Iproyect Cali,10/05/2016,2,TRUE,5.739.976,TRUE,Cotización 760 -Iproyect - FUEL 3D + Software
+761,Jhon Fredy Correa,10/05/2016,1,TRUE,1.899.000,FALSE,Cotización 761 - Jhon Fredy Correa Wi3 V2
+762,Nubia Godoy Miranda,10/05/2016,2,TRUE,1.944.650,TRUE,Cotización 762 - Nubia Godoy Wi3 V2
+764,Leonel José Paredes,05/05/2016,3,FALSE,159.500,FALSE,Cotización 764 - Leonel Paredes - PLA + Grasa + Lubricante - copia-1
+765,Pontificia Universidad Javeriana Bogotá,16/05/2016,1,TRUE,2.896.000,FALSE,Cotización 765 - Javeriana Bogotá - MICRO 3D + 3Doodler
+766,RTR S.A.S.,17/05/2016,6,TRUE,30.873.560,FALSE,"Cotización 766 - RTR - U2+, M2, Dreamer"
+767,Felipe Franco,17/05/2016,2,TRUE,1.944.650,TRUE,Cotización 767 - Felipe Franco  Wi3 V2
+768,Jose Fernando Perez Villa,17/05/2016,8,FALSE,6.296.240,FALSE,Cotización 768 - Tecnoparque CALI u2+ Upgrade kit + PLA
+769,Tecnología Ambiental NOW,18/05/2016,2,TRUE,1.944.650,TRUE,Cotización 769 - Tecnología Ambiental NOW Wi3 V2
+770,Tecnología Ambiental NOW,18/05/2016,2,TRUE,5.958.400,TRUE,Cotización 770 - Tecnología Ambiental NOW-  Liquid Crystal 10'' + resina
+771,RTR S.A.S.,18/05/2016,3,TRUE,10.786.794,TRUE,Cotización 771 - RTR D5S
+772,Freddy Parra,23/05/2016,10,TRUE,17.439.873,TRUE,Cotización 772 - Freddy Parra - U2+
+773,Juan Carlos Fonseca,23/05/2016,1,TRUE,5.196.580,TRUE,Cotización 773 - Juan Carlos Fonseca - DAVID Starter Kit
+774,Sandra Perez,20/05/2016,4,TRUE,19.299.120,TRUE,Cotización 774 - Sandra Perez - D5S Mini + Dreamer + D6
+775,Universidad Manuela Beltrán,20/05/2016,6,TRUE,30.874.160,TRUE,"Cotización 775 - U. Manuela Beltrán - U2+, M2, DReamer"
+778,TEK SOLUCIONES,20/05/2016,5,FALSE,13.357.000,TRUE,Cotización 778 - TEK Soluciones -  3Doodler
+779,Universidad Santo Tomás Bucaramanga,20/05/2016,1,FALSE,63.800,FALSE,Cotización 779 - USTA - Bloque extrusor M2
+780,Universidad Santo Tomás Bucaramanga,20/05/2016,1,FALSE,574.200,FALSE,Cotización 780 - USTA -  M2 actualizacion V4
+781,Ivan Ponce,21/05/2016,3,TRUE,4.884.064,TRUE,Cotización 781 - Ivan Ponce - D6
+782,John Fredy Rodriguez,21/05/2016,4,TRUE,21.541.824,TRUE,Cotización 782 - John Rodriguez - U2+
+783,Universidad Colegio Mayor de Antioquia,23/05/2016,12,TRUE,68.971.501,FALSE,Cotización 783 - Universidad Colegio Mayor  F2- U2+
+784,Ciro Nugnez,23/05/2016,17,FALSE,21.284.493,TRUE,Cotización 784 - Ciro Nuñez - Stratasys 1200es
+785,Luz Chacon,23/05/2016,17,FALSE,21.284.493,TRUE,Cotización 785 - Luz Chacon CROMAS - Stratasys 1200es
+786,Universidad Pontificia Javeriana,24/05/2016,6,FALSE,740.000,FALSE,Cotización 786 - U  Javeriana (Filamento)
+787,MUNDIAL DE COMPUTADORES,24/05/2016,4,TRUE,5.863.400,TRUE,Cotización 787 - Mundial de Computadores -  Liquid Crystal 10'' + resina  - D5S
+788,Mundial de Computadores,24/05/2016,5,TRUE,10.459.500,TRUE,Cotización 788 - Mundial de Computadores D5S
+789,Silvia Moreno,25/05/2016,3,FALSE,310.500,FALSE,Cotización 789 - Silvia Moreno - PLA
+790,Zuministra Distribuciones,31/05/2016,47,FALSE,24.809.373,TRUE,Cotización 790 - Zuministra - Stratasys 1200es
+791,Robertson Becerra,31/05/2016,5,TRUE,39.244.000,FALSE,Cotización 791 - Robertson Becerra DAVID SLS2 y SLS3
+792,Robertson Becerra,31/05/2016,3,TRUE,5.196.580,TRUE,Cotización 792 - Robertson Becerra - DAVID Starter Kit
+792,Universidad de Boyacá,31/05/2016,9,TRUE,36.015.280,FALSE,"Cotización 792 - U. Boyacá - U2+, M2, Dreamer, D6"
+793,Suconel S.A.,31/05/2016,6,TRUE,5.189.660,TRUE,Cotización 793 - Suconel  Wi3 V2
+794,Pontificia Universidad Javeriana,02/06/2016,7,FALSE,20.687.400,FALSE,Cotización 794 - Pontificia Javeriana - Makerbot
+795,Pontificia Universidad Javeriana,28/05/2016,9,TRUE,19.062.920,FALSE,Cotización 795 - Pontificia Javeriana - U2+ - EinscanS
+796,Universidad Nacional de Colombia,03/06/2016,18,TRUE,40.270.320,FALSE,Cotización 796 - UNAL - U2+_removed
+797,Nestor Julio Sanchez,03/06/2016,2,TRUE,5.863.400,TRUE,Cotización 797 - Nestor Julio Sanchez -  Liquid Crystal 10'' + resina
+797,Colombo Americano Pereira,07/06/2016,6,TRUE,23.280.240,FALSE,Cotización 798 - Colombo Americano - Portafolio impresoras
+781,Unidades Tecnológicas de Santander,07/06/2016,1,TRUE,5.224.050,TRUE,Cotización 799 - UTS - D6_removed
+800,German David Fuentes,07/06/2016,5,TRUE,27.478,TRUE,Cotización 800 - German David Fuentes - 3D Pandoras
+801,INTOPCO S.A.S,07/06/2016,9,TRUE,47.055.160,FALSE,Cotización 801 - INTOPCO - Portafolio impresoras
+802,Universidad Agustiniana,08/06/2016,12,VERDADERO,73.307.890,FALSO,Cotización 802 - Universidad Agustiniana - Portafolio impresoras
+803,Nestor Julio Sanchez,03/06/2016,2,VERDADERO,5.863.400,VERDADERO,Cotización 803 - Nestor Julio Sanchez -  Liquid Crystal 10'' + resina
+803,Universidad Católica de Colombia,10/06/2016,12,VERDADERO,73.307.890,FALSO,Cotización 803 - Universidad Católica de Colombia - Portafolio impresoras
+804,Universidad Libre Cúcuta,10/06/2016,12,VERDADERO,73.307.890,FALSO,Cotización 804 - Universidad Libre Cucúta - Portafolio impresoras
+805,Jesid Arias,10/08/2016,5,VERDADERO,"27.478,37",VERDADERO,Cotización 805 - Jesid Arias - 3D Pandoras
+806,John Freddy García,14/06/2016,15,FALSO,"48.288.097,20",VERDADERO,Cotización 806 - John Fredy García - Insumos Projet SD3500
+807,YENNIFER PEÑALOZA L.,14/06/2016,12,VERDADERO,73.307.890,FALSO,Cotización 807 - Yennifer Peñaloza - Portafolio impresoras 3D
+808,Suministros Maybe,14/06/2016,15,FALSO,"48.288.097,20",VERDADERO,Cotización 808 - Suministros Maybe - Insumos Projet SD3500
+809,Alfredo Burbano,15/06/2016,3,VERDADERO,6.226.300,VERDADERO,Cotización 809 - Alfredo Burbano -  Liquid Crystal 10'' + resina
+810,Unidades Tecnológicas de Santander,16/06/2016,1,VERDADERO,"6.991.923,20",FALSO,Cotización 810 - Unidades Tecnológicas de Santander - D6
+811,Multimedia Software,16/06/2016,2,FALSO,296.000,FALSO,Cotización 811 -Multimedia Software-  ABSPLA
+813,La Hora Loca Cali,21/06/2015,3,FALSO,1.944.650,VERDADERO,Cotización 813 - Hora Loca Cali - Wanhao i3
+814,MAXIMILIANO CASTAÑEDA RIVERA,21/06/2016,14,FALSO,19.285.000,VERDADERO,Cotización 814 - Maximiliano Castañeda - Insumos SST1200es
+816,Mediterranean Marble Company S.A.S.,22/06/2016,2,VERDADERO,20.889.000,FALSO,Cotización 816 - Mediterranean Marble - DAVID SLS2 + Tornamesa
+817,Luis Franco Salinas,30/03/2016,1,VERDADERO,10.351.200,VERDADERO,Cotización 817 - Luis Francisco Salinas R2 - Roland Pix 30
+818,Luis Franco Salinas,22/06/2016,1,VERDADERO,22.623.300,VERDADERO,Cotización 818 - Luis Francisco Salinas  DAVID SLS3
+819,Vortex Company SAS,02/08/2016,46,FALSO,5.549.440,FALSO,Cotización 819 - Vortex Company -  ABSPLA
+820,SENA,03/06/2016,3,VERDADERO,14.078.920,FALSO,Cotización 820 - SENA - U2+
+821,CONALMEDICAS,25/06/2016,3,VERDADERO,13.240.920,FALSO,Cotización 821 - Conalmedicas - U2+
+822,Universidad de Los Andes,27/06/2016,2,FALSO,1.542.800,FALSO,Cotización 822 - UNIANDES - Mantenimiento R2
+823,Cesar Parra,10/06/2016,12,VERDADERO,73.307.890,FALSO,Cotización 823 - Cesar Parra - Portafolio impresoras
+824,Tecnoparque Sena nodo Medellín,28/06/2016,2,VERDADERO,5.378.920,FALSO,Cotización 824 - Pontificia Javeriana  - EinscanS
+825,Cristian Salamanca,30/06/2016,5,VERDADERO,"27.478,37",VERDADERO,Cotización 825 - Cristian Salamanca - 3D Pandoras
+826,SENA,30/06/2016,1,VERDADERO,22.819.190,VERDADERO,Cotización 826 - SENA - Leapfrg Creator HS XL
+827,SENA,26/07/2016,1,VERDADERO,"31.296.470,00",FALSO,Cotización 827 - SENA - Leapfrg Creator HS XL
+828,Herramientas Industriales E.U.,01/07/2016,11,FALSO,2.267.350,FALSO,Cotización 828 - Herramientas Industriales E.U. - Filamentos
+829,Ruben Caipe,01/07/2016,3,VERDADERO,36.955.280,VERDADERO,Cotización 829 - Ruben Caipe - FILABOT
+830,CONALMEDICAS,01/07/2016,1,FALSO,321.320,FALSO,Cotización 830 - Conalmedicas -  Purement antibacterial
+831,Hospital general de Medellín,08/08/2016,10,VERDADERO,32.739.880,FALSO,Cotización 831 - Hospital general de Medellín - Portafolio impresoras
+832,DIDACSAN,02/07/2016,1,VERDADERO,"7.305.000,00",VERDADERO,Cotización 832 - Didacsan - Dreamer
+833,Blackdog Ingeniería,05/07/2016,12,VERDADERO,73.307.890,FALSO,Cotización 833 - Blackdog Ingenieria
+834,Tecnoparque Sena La Angostura,02/07/2016,1,VERDADERO,5.378.920,FALSO,Cotización 834 - SENA Neiva  - EinscanS
+835,Universidad EIA,05/07/2016,5,VERDADERO,"28.924,60",VERDADERO,Cotización 835 - Universidad EIA - 3D Pandoras
+836,Pontificia Universidad Javeriana,07/07/2016,3,FALSO,"31.428.480,00",FALSO,Cotización 836 - Pontificia Javeriana Bogotá - Stratasys 1200es
+837,Universidad La Gran Colombia,07/07/2016,1,VERDADERO,"5.499.000,00",FALSO,Cotización 837 - Universidad La Gran Colombia - D6
+838,Victor Melgarejo,07/07/2016,7,VERDADERO,35.976.280,FALSO,"Cotización 838 - Victor Melgarejo - U2+, M2, Dreamer, D6"
+839,UNIMINUTO,11/07/2016,4,VERDADERO,6.477.000,FALSO,Cotización 839 - Uniminuto - D6 + PLA + ABS
+840,Victor Melgarejo,11/07/2016,3,VERDADERO,26.739.000,FALSO,Cotización 840 -Victor Melgarejo- Scanners 3D (DAVID SLS-2 y Einscan-S)
+841,DELICAKE BARRANQUILLA,12/07/2016,2,FALSO,485.320,FALSO,Cotización 841 - Delicake -  T-Glase - Antibiotico
+841,Orbey Quintero,13/07/2016,5,VERDADERO,"28.924,60",VERDADERO,Cotización 841 - Orbey Quintero - 3D Pandoras
+842,Andres Benavides,13/07/2016,5,VERDADERO,"28.924,60",VERDADERO,Cotización 842 - Andres Benavides - 3D Pandoras
+843,Julián Agudelo,13/07/2016,5,VERDADERO,"28.924,60",VERDADERO,Cotización 843 - Julian Agudelo - 3D Pandoras
+844,Corporación Kairos,13/07/2016,1,FALSO,379.320,FALSO,Cotización 844 - Corporación Kairos -  ABSPLA
+845,TECNOPARQUE NODO VALLEDUPAR,23/08/2017,3,VERDADERO,33.528.500,FALSO,Cotización 845 - SENA Cali - Thor3D
+846,Black Dog Ltda,09/09/2016,2,VERDADERO,6.272.000,VERDADERO,Cotización 846 - Victor Melgarejo -  Liquid Crystal 10'' + resina
+847,Victor Melgarejo,14/07/2016,1,VERDADERO,"16.400.000,00",FALSO,Cotización 847 - Victor Melgarejo - Leapfrg Creator HS
+848,Solutions Group S.A.S.,14/07/2016,2,FALSO,"2.025.360,00",FALSO,Cotización 848 - Solutions - Mantenimiento Z18
+849,Analytica,15/07/2016,8,VERDADERO,"40.901.725,42",VERDADERO,Cotización 849 - Universidad Colegio Mayor  F2- U2+
+850,John Fredy Rodríguez,16/07/2016,2,VERDADERO,17.645.694,VERDADERO,Cotización 850 - John Rodriguez - U2+ EXTENDED
+851,John Fredy Rodríguez,18/07/2016,2,VERDADERO,13.310.920,VERDADERO,Cotización 851 - John Rodriguez - U2+
+,,,,,,,
+,,,,,,,
+,,,.,,,,

@@ -1,0 +1,45 @@
+N_Cot,Cliente,Fecha,N_Productos_Total,Capacitacion,V_Total,Descuento,url
+751,Eduardo Ramirez,03/05/2016,2,FALSE,273.760,FALSE,PDFs/Cotización 751 -Eduardo Ramirez- (PLA) 2.85mm.pdf
+752,DAR Soluciones,03/05/2016,2,FALSE,6.641.000,FALSE,PDFs/Cotización 752 - DAR Soluciones (PLA-ABS).pdf
+753,Paola Buitrago,04/05/2016,3,TRUE,3.089.520,FALSE,PDFs/Cotización 753 - Paola Buitrago - Micro + insumos.pdf
+754,BPM Global Solutions,04/05/2016,6,TRUE,24.831.784,TRUE,PDFs/Cotización 754 -BPM Global Solutions- Makerbot Replicator 2 y 2X.pdf
+755,Diego Salazar,05/05/2016,2,TRUE,21.451.000,TRUE,PDFs/Cotización 755 -Diego Salazar- Scanners 3D (Fuel 3D + David2).pdf
+756,UNIVERSIDAD DE LOS ANDES,05/05/2016,3,FALSE,888.000,FALSE,"PDFs/Cotización 756 - UNIVERSIDAD DE LOS ANDES- ABS EasyFil Formfutura, ABS IC3D.pdf"
+756,Daniela gomez,05/05/2016,2,TRUE,6.042.080,TRUE,PDFs/Cotización 756 -Daniela Gomez- Software FUEL 3D.pdf
+757,ASSA ABLOY - YALE,04/04/2017,6,FALSE,1.281.327,FALSE,PDFs/Cotización 757 -YALE- Repuestos MakerGear M2.pdf
+758,UNIVERSIDAD DE LOS ANDES,05/05/2016,2,FALSE,640.400,FALSE,PDFs/Cotización 758 - Uniandes (Buildtak).pdf
+759,Colegio Colombo Británico,10/05/2016,11,TRUE,61.210.890,FALSE,PDFs/Cotización 759 - Colegio Colombo Británico - Portafolio impresoras.pdf
+760,Iproyect Cali,10/05/2016,2,TRUE,5.739.976,TRUE,PDFs/Cotización 760 -Iproyect - FUEL 3D + Software.pdf
+761,Jhon Fredy Correa,10/05/2016,1,TRUE,1.899.000,FALSE,PDFs/Cotización 761 - Jhon Fredy Correa Wi3 V2.pdf
+762,Nubia Godoy Miranda,10/05/2016,2,TRUE,1.944.650,TRUE,PDFs/Cotización 762 - Nubia Godoy Wi3 V2.pdf
+764,Leonel José Paredes,05/05/2016,3,FALSE,159.500,FALSE,PDFs/Cotización 764 - Leonel Paredes - PLA + Grasa + Lubricante - copia-1.pdf
+765,Pontificia Universidad Javeriana Bogotá,16/05/2016,1,TRUE,2.896.000,FALSE,PDFs/Cotización 765 - Javeriana Bogotá - MICRO 3D + 3Doodler.pdf
+766,RTR S.A.S.,17/05/2016,6,TRUE,30.873.560,FALSE,"PDFs/Cotización 766 - RTR - U2+, M2, Dreamer.pdf"
+767,Felipe Franco,17/05/2016,2,TRUE,1.944.650,TRUE,PDFs/Cotización 767 - Felipe Franco  Wi3 V2.pdf
+768,Jose Fernando Perez Villa ,17/05/2016,8,FALSE,6.296.240,FALSE,PDFs/Cotización 768 - Tecnoparque CALI u2+ Upgrade kit + PLA.pdf
+769,Tecnología Ambiental NOW ,18/05/2016,2,TRUE,1.944.650,TRUE,PDFs/Cotización 769 - Tecnología Ambiental NOW Wi3 V2.pdf
+770,Tecnología Ambiental NOW,18/05/2016,2,TRUE,5.958.400,TRUE,PDFs/Cotización 770 - Tecnología Ambiental NOW-  Liquid Crystal 10'' + resina.pdf
+771,RTR S.A.S.,18/05/2016,3,TRUE,10.786.794,TRUE,PDFs/Cotización 771 - RTR D5S.pdf
+772,Freddy Parra,23/05/2016,10,TRUE,17.439.873,TRUE,PDFs/Cotización 772 - Freddy Parra - U2+.pdf
+773,Juan Carlos Fonseca,23/05/2016,1,TRUE,5.196.580,TRUE,PDFs/Cotización 773 - Juan Carlos Fonseca - DAVID Starter Kit.pdf
+774,Sandra Perez,20/05/2016,4,TRUE,19.299.120,TRUE,PDFs/Cotización 774 - Sandra Perez - D5S Mini + Dreamer + D6.pdf
+775,Universidad Manuela Beltrán,20/05/2016,6,TRUE,30.874.160,TRUE,"PDFs/Cotización 775 - U. Manuela Beltrán - U2+, M2, DReamer.pdf"
+778,TEK SOLUCIONES,20/05/2016,5,FALSE,13.357.000,TRUE,PDFs/Cotización 778 - TEK Soluciones -  3Doodler.pdf
+779,Universidad Santo Tomás Bucaramanga,20/05/2016,1,FALSE,63.800,FALSE,PDFs/Cotización 779 - USTA - Bloque extrusor M2.pdf
+780,Universidad Santo Tomás Bucaramanga,20/05/2016,1,FALSE,574.200,FALSE,PDFs/Cotización 780 - USTA -  M2 actualizacion V4.pdf
+781,Ivan Ponce,21/05/2016,3,TRUE,4.884.064,TRUE,PDFs/Cotización 781 - Ivan Ponce - D6.pdf
+782,John Fredy Rodriguez,21/05/2016,4,TRUE,21.541.824,TRUE,PDFs/Cotización 782 - John Rodriguez - U2+.pdf
+783,Universidad Colegio Mayor de Antioquia,23/05/2016,12,TRUE,68.971.501,FALSE,PDFs/Cotización 783 - Universidad Colegio Mayor  F2- U2+.pdf
+784,Ciro Nugnez,23/05/2016,17,FALSE,21.284.493,TRUE,PDFs/Cotización 784 - Ciro Nuñez - Stratasys 1200es.pdf
+785,Luz Chacon,23/05/2016,17,FALSE,21.284.493,TRUE,PDFs/Cotización 785 - Luz Chacon CROMAS - Stratasys 1200es.pdf
+786,Universidad Pontificia Javeriana,24/05/2016,6,FALSE,740.000,FALSE,PDFs/Cotización 786 - U  Javeriana (Filamento).pdf
+787,MUNDIAL DE COMPUTADORES,24/05/2016,4,TRUE,5.863.400,TRUE,PDFs/Cotización 787 - Mundial de Computadores -  Liquid Crystal 10'' + resina  - D5S.pdf
+788,Mundial de Computadores,24/05/2016,5,TRUE,10.459.500,TRUE,PDFs/Cotización 788 - Mundial de Computadores D5S.pdf
+789,Silvia Moreno,25/05/2016,3,FALSE,310.500,FALSE,PDFs/Cotización 789 - Silvia Moreno - PLA.pdf
+790,Zuministra Distribuciones,31/05/2016,47,FALSE,24.809.373,TRUE,PDFs/Cotización 790 - Zuministra - Stratasys 1200es.pdf
+791,Robertson Becerra,31/05/2016,5,TRUE,39.244.000,FALSE,PDFs/Cotización 791 - Robertson Becerra DAVID SLS2 y SLS3.pdf
+792,Robertson Becerra,31/05/2016,3,TRUE,5.196.580,TRUE,PDFs/Cotización 792 - Robertson Becerra - DAVID Starter Kit.pdf
+792,Universidad de Boyacá,31/05/2016,9,TRUE,36.015.280,FALSE,"PDFs/Cotización 792 - U. Boyacá - U2+, M2, Dreamer, D6.pdf"
+793,Suconel S.A.,31/05/2016,6,TRUE,5.189.660,TRUE,PDFs/Cotización 793 - Suconel  Wi3 V2.pdf
+794,Pontificia Universidad Javeriana,02/06/2016,7,FALSE,20.687.400,FALSE,PDFs/Cotización 794 - Pontificia Javeriana - Makerbot.pdf
+795,Pontificia Universidad Javeriana,28/05/2016,9,TRUE,19.062.920,FALSE,PDFs/Cotización 795 - Pontificia Javeriana - U2+ - EinscanS.pdf
